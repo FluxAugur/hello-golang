@@ -1,6 +1,6 @@
 package main
 
-func maim() {
+func main() {
   println("Hello, world!")
 }
 
